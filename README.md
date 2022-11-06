@@ -10,7 +10,7 @@ This can be helpful if you want to use a script from a repository in your projec
         "syncFiles": [
             {
                 "file": "path/to/local/file",
-                "remote": "https://127.0.0.1/path-to-remove-file",
+                "remote": "https://127.0.0.1/path-to-remote-file",
                 "commentPrefix": "# ",
                 "suppressComments": false
             }
